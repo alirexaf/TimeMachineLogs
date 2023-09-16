@@ -1,0 +1,17 @@
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\TimeMachineLogFiles.exe
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\TimeMachineLogFiles.deps.json
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\TimeMachineLogFiles.runtimeconfig.json
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\TimeMachineLogFiles.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\TimeMachineLogFiles.pdb
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.csproj.AssemblyReference.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.AssemblyInfoInputs.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.AssemblyInfo.cs
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.csproj.CoreCompileInputs.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.csproj.CopyComplete
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\refint\TimeMachineLogFiles.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.pdb
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\TimeMachineLogFiles.genruntimeconfig.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\TimeMachineLogFiles\obj\Debug\net7.0\ref\TimeMachineLogFiles.dll

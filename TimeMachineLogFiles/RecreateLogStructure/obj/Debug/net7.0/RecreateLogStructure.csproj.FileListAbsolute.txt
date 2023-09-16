@@ -1,0 +1,17 @@
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\RecreateLogStructure.exe
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\RecreateLogStructure.deps.json
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\RecreateLogStructure.runtimeconfig.json
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\RecreateLogStructure.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\RecreateLogStructure.pdb
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.csproj.AssemblyReference.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.AssemblyInfoInputs.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.AssemblyInfo.cs
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.csproj.CoreCompileInputs.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.csproj.CopyComplete
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\refint\RecreateLogStructure.dll
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.pdb
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\RecreateLogStructure.genruntimeconfig.cache
+F:\Repos\TimeMachineLogFiles\TimeMachineLogFiles\RecreateLogStructure\obj\Debug\net7.0\ref\RecreateLogStructure.dll

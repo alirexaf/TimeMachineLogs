@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJOG3ntT1rmsfkM4LwqxyJEUHarqOSLJKNeHUsvxGsC02zxarjXH5BMIe1z9P2/ayBNq/MTvJusqDcxCmT3nWw==",
+  "success": true,
+  "projectFilePath": "F:\\Repos\\TimeMachineLogFiles\\TimeMachineLogFiles\\RecreateLogStructure\\RecreateLogStructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlirezaAfzali\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
